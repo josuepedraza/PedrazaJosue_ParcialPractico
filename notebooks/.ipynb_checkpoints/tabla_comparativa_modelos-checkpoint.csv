@@ -1,0 +1,4 @@
+Modelo,F1_general,Precision_general,Recall_general,AUC_ROC,AUC_PR,Precision_clase1,Recall_clase1,F1_clase1
+Logistic Regression,0.986,0.9981,0.9756,0.989,0.7633,0.07,0.9605,0.1305
+Random Forest,0.9993,0.9993,0.9994,0.9706,0.8365,0.9048,0.75,0.8201
+Stacking Manual,0.9992,0.9993,0.9991,0.989,0.8188,0.7283,0.8816,0.7976
